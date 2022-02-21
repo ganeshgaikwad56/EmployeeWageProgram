@@ -12,6 +12,7 @@ namespace EmployeeWageProgram
             EmpolyeeCheck.EmployeePresentOrNot();
             CalEmpDailyWage.CalculateWage();
             SwitchCase.SwitchCaseCal();
+            WageTillCondition.CalWageTillCondition();
         }
     }
 }
